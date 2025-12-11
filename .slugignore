@@ -1,0 +1,40 @@
+# Test files
+test_*.py
+*_test.py
+tests/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Development files
+.git/
+.gitignore
+.env
+.vscode/
+.idea/
+
+# Documentation
+*.md
+!README.md
+
+# Uploads (should use cloud storage in production)
+uploads/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Alembic cache
+alembic/__pycache__/
+app/__pycache__/
+app/**/__pycache__/
+
+# Sample files
+sample_*.txt
+sample_*.pdf
+
+# Development scripts
+check_db.py
+switch_env.py
