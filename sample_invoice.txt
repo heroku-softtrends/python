@@ -1,5 +1,6 @@
 INVOICE
 
+
 Invoice Number: INV-2024-001
 Invoice Date: January 15, 2024
 Due Date: February 15, 2024
